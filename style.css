@@ -1,4 +1,4 @@
-.outer{  
+    .outer{  
     margin:auto; 
     height:300px; 
     width:400px; 
@@ -6,22 +6,22 @@
     position:relative 
     background-color: rgb(185, 86, 185);
     } 
-body{
+    body{
     background-color: #430a67;
     }
-   p{ 
+    p{ 
     margin-left:80px; 
     } 
- .in{ 
+    .in{ 
     margin-left:80px; 
     padding:10px 
     } 
- #bt{ 
+    #bt{ 
     margin-top:20px; 
     position:absolute; 
     left:150px; 
     } 
-#bt:hover{ 
+    #bt:hover{ 
     background:green; 
     font-size:13px; 
     cursor:pointer; 
